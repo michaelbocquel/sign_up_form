@@ -1,0 +1,7 @@
+{
+	"indentRainbow.colorOnWhiteSpaceOnly": true,
+	"indentRainbow.errorColor": "rgba(128,32,32,1)",
+	"indentRainbow.indentSetter": {},
+	"indentRainbow.indicatorStyle": "light",
+	"indentRainbow.lightIndicatorStyleLineWidth": 10
+}
